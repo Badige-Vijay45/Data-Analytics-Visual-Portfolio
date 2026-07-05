@@ -9,7 +9,7 @@ Hi! I am a passionate Data Analyst specializing in Excel, SQL, and Power BI. Bel
 ## 1. YouTube Content Creator Analytics Dashboard
 This dashboard analyzes engagement metrics (Views, Likes, Comments) across top global YouTube channels to help marketing agencies understand audience retention.
 
-![YouTube Dashboard](1000050026.jpg)
+![YouTube Dashboard](youtube_dashboard.jpg)
 
 ### Key Metrics & Insights:
 * **Total View Count:** 28M+ across analyzed creators.
@@ -22,7 +22,8 @@ This dashboard analyzes engagement metrics (Views, Likes, Comments) across top g
 ## 2. Employee Salary & HR Dashboard
 A corporate HR dashboard designed to track salary distributions and headcount across various company departments.
 
-![HR Dashboard](1000054457.png)
+![HR Dashboard](hr_dashboard..png)
+
 
 ### Key Metrics & Insights:
 * **Total Payroll:** 425K.
